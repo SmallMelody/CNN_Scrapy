@@ -1,6 +1,0 @@
-model_checkpoint_path: "/Users/iyuba/Desktop/gdbSoft/MNIST_Project/model/model.ckpt-28001"
-all_model_checkpoint_paths: "/Users/iyuba/Desktop/gdbSoft/MNIST_Project/model/model.ckpt-24001"
-all_model_checkpoint_paths: "/Users/iyuba/Desktop/gdbSoft/MNIST_Project/model/model.ckpt-25001"
-all_model_checkpoint_paths: "/Users/iyuba/Desktop/gdbSoft/MNIST_Project/model/model.ckpt-26001"
-all_model_checkpoint_paths: "/Users/iyuba/Desktop/gdbSoft/MNIST_Project/model/model.ckpt-27001"
-all_model_checkpoint_paths: "/Users/iyuba/Desktop/gdbSoft/MNIST_Project/model/model.ckpt-28001"
